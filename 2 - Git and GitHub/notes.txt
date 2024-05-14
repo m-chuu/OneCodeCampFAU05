@@ -1,0 +1,32 @@
+Initialize Git Repository
+git init
+
+Configuring Git
+git config --global user.name "username"
+git config --global user.email "email"
+
+Check Status
+git status
+
+Add the files to the staging area
+git add .
+
+staging area = quality control for the changes
+(you can still decide which changes to be committed before commiting them(which is permanent).
+
+U - untracked
+M - Modification/ Modified
+
+View History
+git log
+
+List all branches
+git branch -a
+
+Create a branch
+git branch [branch-name]
+
+Switch to a different branch
+git checkout [branch-name]
+
+

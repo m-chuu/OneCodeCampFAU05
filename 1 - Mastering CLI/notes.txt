@@ -1,0 +1,20 @@
+Make Director
+mkdir [directory_name]
+
+Remove Directory
+rmdir [directory_name]
+
+Print/Present working Directory
+pwd
+
+List Command
+ls
+
+Change Directory
+cd [directory_name]
+
+Go back one directory
+cd ..
+
+Create files
+touch [file_name]
