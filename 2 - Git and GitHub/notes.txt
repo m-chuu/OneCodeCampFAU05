@@ -34,4 +34,4 @@ git merge feature
 * Sometimes git is harder than actual coding
 git log --oneline
 
-
+*
