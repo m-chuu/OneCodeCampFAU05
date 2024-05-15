@@ -35,3 +35,10 @@ git merge feature
 git log --oneline
 
 git reset --hard [number]
+
+----
+Push commits to the remote repository for the first time
+git remote add origin https://github.com/m-chuu/OneCodeCampFAU05.git
+git branch -M main
+git push -u origin main
+
